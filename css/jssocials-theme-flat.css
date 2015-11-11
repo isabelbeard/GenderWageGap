@@ -1,0 +1,16 @@
+.jssocials-share-twitter .jssocials-share-link {
+  background: none; }
+  .jssocials-share-twitter .jssocials-share-link:hover {
+    box-shadow: 0px 10px 20px -10px rgba(150, 150, 150, 0.5);
+ }
+
+.jssocials-share-facebook .jssocials-share-link {
+  background: none; }
+  .jssocials-share-facebook .jssocials-share-link:hover {
+    box-shadow: 0px 10px 20px -10px rgba(150, 150, 150, 0.5);
+ }
+
+
+.jssocials-share-link { border-radius: 50%;
+  float: left;
+ }
